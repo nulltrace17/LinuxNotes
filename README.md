@@ -1,2 +1,13 @@
-# LinuxNotes
-Things I learned while breaking my Linux installation.
+# Linux Notes
+
+Random notes from learning Linux.
+
+Topics:
+
+- Bash
+- Processes
+- Permissions
+- Networking
+- SSH
+
+Still learning.
